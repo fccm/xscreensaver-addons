@@ -1,0 +1,20 @@
+Some additional screen savers for XScreenSaver.
+
+===== How to compile and install =====
+
+First you need to open the archive of XScreenSaver (for example
+xscreensaver-x.xx.tar.gz), and then open the archive
+xscreensaver-addons-x.xx.tar.gz in the same directory.
+
+Then compile the XScreenSaver base distribution as explained
+in its base README with ./configure and make. After this
+compile xscreensaver-addons with the command:
+make -f Makefile.addons
+
+
+===== Additional screen savers =====
+
+- leafmoon
+- unsorted
+- accresphere
+
